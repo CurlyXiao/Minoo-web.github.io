@@ -1170,7 +1170,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #8bff0d;
+  background: #e44750;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -1416,6 +1416,7 @@ pre .javascript .function {
   color: #ff0000;
   display: inline-block;
   margin: 0 5px;
+  animation: iconAnimate 1.33s ease-in-out infinite;
 }
 .powered-by,
 .theme-info {
@@ -2635,7 +2636,7 @@ ul.breadcrumb li + li:last-child {
     padding: 10px;
   }
   .posts-expand .post-button {
-    margin-top: 10px;
+    margin-top: 20px;
   }
   .post-block {
     border-radius: initial;
@@ -2677,6 +2678,10 @@ ul.breadcrumb li + li:last-child {
   .pagination {
     margin: 8px 0 0;
   }
+}
+.posts-expand .post {
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 body {
   background: url("/images/background2.jpg");
