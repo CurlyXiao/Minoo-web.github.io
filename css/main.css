@@ -1241,7 +1241,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #e56cf1;
+  background: #fffffb;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -1610,7 +1610,7 @@ pre .javascript .function {
   transform: rotate(30deg);
 }
 .post-button {
-  margin-top: 40px;
+  margin-top: 20px;
   text-align: center;
 }
 .use-motion .post-block,
@@ -2700,7 +2700,7 @@ ul.breadcrumb li + li:last-child {
     padding: 10px;
   }
   .posts-expand .post-button {
-    margin-top: 20px;
+    margin-top: 5px;
   }
   .post-block {
     border-radius: initial;
@@ -2708,7 +2708,7 @@ ul.breadcrumb li + li:last-child {
     padding: 20px;
   }
   .post-block + .post-block {
-    margin-top: 10px;
+    margin-top: 5px;
   }
   .comments {
     margin-top: 10px;
