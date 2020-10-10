@@ -1,45 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>前端学习之旅（一）三大件学习</title>
-      <link href="/2020/10/09/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E4%B9%8B%E6%97%85%EF%BC%88%E4%B8%80%EF%BC%89%E4%B8%89%E5%A4%A7%E4%BB%B6%E5%AD%A6%E4%B9%A0/"/>
-      <url>/2020/10/09/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E4%B9%8B%E6%97%85%EF%BC%88%E4%B8%80%EF%BC%89%E4%B8%89%E5%A4%A7%E4%BB%B6%E5%AD%A6%E4%B9%A0/</url>
-      
-        <content type="html"><![CDATA[<h1 id="HTML-CSS-JavaScript个人学习路线"><a href="#HTML-CSS-JavaScript个人学习路线" class="headerlink" title="HTML+CSS+JavaScript个人学习路线"></a>HTML+CSS+JavaScript个人学习路线</h1><p>&emsp;本文是个人对前端三大件的学习总结，但是并不一定适合所有人，仅供参考</p><a id="more"></a><ul><li>HTML篇  </li><li>CSS篇</li><li>JavaScript  </li></ul><hr><p>&emsp;&emsp;在每一部分开始之前我都会先看一下速成视频，了解一下大致学习的内容，这里比较推荐的是DasAutoooo的crash class（<del>声控党福利，</del>）误，其实真的讲的比较好啦！B站和YouTuBe都有，欢迎你使用科学上网，嘻嘻~</p><h2 id="第一篇：HTML"><a href="#第一篇：HTML" class="headerlink" title="第一篇：HTML"></a>第一篇：HTML</h2>]]></content>
-      
-      
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2020/04/22/hello-world/</url>
+    <content><![CDATA[<h1 id="Excited-I-Got-It"><a href="#Excited-I-Got-It" class="headerlink" title="Excited , I Got It !!!"></a><strong>Excited , I Got It !!!</strong></h1><a id="more"></a>
+
+<p>&#8195;终于把博客弄好了，不是兴奋，有一种熬出头的感觉。谁告诉我的弄好了博客有成就感，还不如做两道高数题来得实在些。我的建立博客之路说来都是一把辛酸泪，7.8.0版本的NexT主题中网上教程里的有些文件没有，就像_custom。<br>&#8195;However,只有在试错中慢慢摸索，过程的<del>“艰辛”</del>&lt;自己的辣鸡程度&gt;只有自行你们脑补了。虽然博客基本上弄好了，但是还有很多不完善的地方，比如分享，评论，以及左边的小窗。但我实在是干不动了，作业也还没写完…不管了，先到这里吧，以后再慢慢完善它，凑合用着吧。</p>
+<p>&#8195;这里只想说一句？悔不当初&amp;-&amp;慢慢完善吧。。。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>前端学习之旅（一）三大件学习</title>
+    <url>/2020/10/09/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E4%B9%8B%E6%97%85%EF%BC%88%E4%B8%80%EF%BC%89%E4%B8%89%E5%A4%A7%E4%BB%B6%E5%AD%A6%E4%B9%A0/</url>
+    <content><![CDATA[<h1 id="HTML-CSS-JavaScript个人学习路线"><a href="#HTML-CSS-JavaScript个人学习路线" class="headerlink" title="HTML+CSS+JavaScript个人学习路线"></a>HTML+CSS+JavaScript个人学习路线</h1><p>本文是个人对前端三大件的学习总结，但是并不一定适合所有人，仅供参考</p>
+<a id="more"></a>
+
+<ul>
+<li>HTML篇  </li>
+<li>CSS篇</li>
+<li>JavaScript  </li>
+</ul>
+<hr>
+<p>&emsp;&emsp;在每一部分开始之前我都会先看一下速成视频，了解一下大致学习的内容，这里比较推荐的是DasAutoooo的crash class,<del>（声控党福利，)</del>误，其实真的讲的比较好啦！B站和YouTuBe都有，欢迎你使用科学上网，嘻嘻~</p>
+<h2 id="第一篇：HTML"><a href="#第一篇：HTML" class="headerlink" title="第一篇：HTML"></a>第一篇：HTML</h2>]]></content>
       <categories>
-          
-          <category> 前端学习 </category>
-          
+        <category>前端学习</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 大二 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2020/04/22/hello-world/"/>
-      <url>/2020/04/22/hello-world/</url>
-      
-        <content type="html"><![CDATA[<h1 id="Excited-I-Got-It"><a href="#Excited-I-Got-It" class="headerlink" title="Excited , I Got It !!!"></a><strong>Excited , I Got It !!!</strong></h1><a id="more"></a><p>&#8195;终于把博客弄好了，不是兴奋，有一种熬出头的感觉。谁告诉我的弄好了博客有成就感，还不如做两道高数题来得实在些。我的建立博客之路说来都是一把辛酸泪，7.8.0版本的NexT主题中网上教程里的有些文件没有，就像_custom。<br>&#8195;However,只有在试错中慢慢摸索，过程的<del>“艰辛”</del>&lt;自己的辣鸡程度&gt;只有自行你们脑补了。虽然博客基本上弄好了，但是还有很多不完善的地方，比如分享，评论，以及左边的小窗。但我实在是干不动了，作业也还没写完…不管了，先到这里吧，以后再慢慢完善它，凑合用着吧。</p><p>&#8195;这里只想说一句？悔不当初&amp;-&amp;慢慢完善吧。。。</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-  
-  
+      <tags>
+        <tag>大二</tag>
+      </tags>
+  </entry>
 </search>
